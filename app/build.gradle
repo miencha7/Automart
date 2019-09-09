@@ -86,7 +86,7 @@ dependencies {
     implementation 'com.github.clans:fab:1.6.4'
 
     // Other libs
-    implementation 'com.github.kizitonwose.time:time-android:1.0.1'
+    implementation 'com.github.kizitonwose.time:time-android:1.0.3'
     implementation 'com.theartofdev.edmodo:android-image-cropper:2.7.0'
     implementation 'com.android.support:multidex:1.0.3'
     implementation 'com.karumi:dexter:4.2.0'

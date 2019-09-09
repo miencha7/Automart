@@ -294,6 +294,4 @@ class CarActivity : BaseActivity(), ImageListener, View.OnClickListener, DatePic
         AppUtils.animateEnterLeft(this)
     }
 
-
-
 }
